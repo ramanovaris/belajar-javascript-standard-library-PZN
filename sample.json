@@ -1,0 +1,10 @@
+{
+  "firstName": "Rama",
+  "middleName": "Novaris",
+  "lastName": "Ayyubi",
+  "address": {
+    "country": "Indonesia",
+    "city": "Pelaihari"
+  },
+  "hobbies": ["Coding", "Nonton Film", "Tidur"]
+}
